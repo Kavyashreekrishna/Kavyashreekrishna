@@ -4,8 +4,9 @@
 ## Hi, I'm Kavyashree Dandu 👋
 
 ### **Machine Learning Engineer | AI Enthusiast**
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kavyashree-dandu-0386b92b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavyashree-dandu-0386b92b6)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 

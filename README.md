@@ -85,35 +85,30 @@ Currently based in **Visakhapatnam, India**, I'm dedicated to continuous learnin
 
 ## 📌 Pinned Projects
 
-### 🤖 [End-to-End ML Pipeline with MLOps](link-to-repo)
-Complete machine learning pipeline with automated retraining, monitoring, and deployment
-* **Tech:** Python, Scikit-learn, MLFlow, Docker, FastAPI
-* **Highlights:** Model versioning, A/B testing, cloud deployment
+💬 RAG Document Q&A
 
-### 💬 [RAG-Powered Chatbot for Private Documents](link-to-repo)
-Production-ready chatbot using LangChain and LlamaIndex for intelligent Q&A
-* **Tech:** LangChain, LlamaIndex, Vector Databases, FastAPI
-* **Highlights:** Retrieval-Augmented Generation, semantic search, REST API
+Production RAG service — upload docs, ask questions, get grounded answers with source citations.
+FastAPI LangChain Chroma Claude Docker RAGAS
 
-### 🎯 [Real-Time Object Detection System](link-to-repo)
-YOLO-based object detection with custom training and web interface
-* **Tech:** TensorFlow, YOLO, OpenCV, Flask
-* **Highlights:** Real-time inference, custom dataset, deployed API
+⚙️ End-to-End MLOps Pipeline
 
-### 📈 [Stock Price Prediction with LSTM](link-to-repo)
-Time series forecasting system with automated backtesting
-* **Tech:** LSTM, TensorFlow, Prophet, MLFlow
-* **Highlights:** Multi-step forecasting, feature engineering, visualization
+Automated training → tracking → CI/CD → deployment pipeline.
+MLflow Docker GitHub Actions FastAPI
 
-### 🎬 [Hybrid Movie Recommendation Engine](link-to-repo)
-Advanced recommendation system combining multiple algorithms
-* **Tech:** Scikit-learn, Pandas, Flask, SQL
-* **Highlights:** Collaborative filtering + content-based, 1M+ ratings processed
+🌊 Flood Risk Prediction — Satellite CV
 
-### 🏥 [Medical Image Classification with Transfer Learning](link-to-repo)
-CNN-based disease detection from X-ray images
-* **Tech:** TensorFlow, ResNet, SHAP
-* **Highlights:** Transfer learning, data augmentation, model interpretability
+CNN-based flood/disaster risk detection from satellite imagery.
+Google Earth Engine CNN FastAPI Docker
+
+📈 Climate Time-Series Forecasting
+
+LSTM/Prophet forecasting on real climate data (NetCDF/GRIB).
+LSTM Prophet FastAPI
+
+🤖 LLM Research Agent
+
+Agent over PDFs with tool-use and memory for research Q&A.
+LangChain LlamaIndex Agents
 
 ---
 
